@@ -1,1 +1,1 @@
-Markov_Chains
+Markov_Chains (Моделирование цепей Маркова)
